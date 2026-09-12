@@ -12,3 +12,7 @@ feedback.txt
 
 # ---- Claude Code 项目配置（本机私有）----
 .claude/
+
+# ---- 演示视频（原始 mp4 与合并包不入库，仓库只放分卷）----
+demo.mp4
+demo.zip

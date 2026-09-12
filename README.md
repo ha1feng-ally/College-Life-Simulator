@@ -28,6 +28,15 @@ python -m http.server 8000
 6. **历史回顾**：游戏右上角随时查看本局所有选择记录（按学期分组）。
 7. **结束**：4 个提前结局（破产 / 挂科劝退 / 重病休学 / 自主退学）+ 3 档毕业结局（按八学期均分）+ 毕业后去向展示（考研上岸 / 职场精英 / 躺平，纯展示无后续分支）。
 
+## 🎬 演示视频
+
+完整游戏实况 demo（分卷压缩包，因超过 GitHub 单文件 100MB 限制）：
+
+1. 下载 `demo.zip.00`、`demo.zip.01`、`demo.zip.02` 三个分卷；
+2. 合并解压得到 `demo.mp4`：
+   - Windows（cmd）：`copy /b demo.zip.00+demo.zip.01+demo.zip.02 demo.zip`
+   - macOS / Linux：`cat demo.zip.00 demo.zip.01 demo.zip.02 > demo.zip`
+
 ## 成就与彩蛋
 
 - **30 项成就**：完整名字 + 代码绘制的像素图标，条件隐藏在文案里，不剧透。
