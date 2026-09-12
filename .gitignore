@@ -1,0 +1,14 @@
+# ---- 系统垃圾文件 ----
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# ---- 开发过程文档（不随游戏公开；如想一并公开请删除下面几行）----
+初期想法.txt
+开发方案.md
+开发日志.txt
+feedback.txt
+像素小人.webp
+
+# ---- Claude Code 项目配置（本机私有）----
+.claude/

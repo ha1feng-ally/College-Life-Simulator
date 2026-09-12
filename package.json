@@ -1,0 +1,12 @@
+{
+  "name": "college-life-simulator",
+  "version": "0.1.0",
+  "description": "大学生活模拟器 - 纯前端文字养成游戏（无数据库、无构建）",
+  "type": "module",
+  "scripts": {
+    "validate": "node tools/validate.mjs",
+    "simulate": "node tools/simulate.mjs",
+    "smoke": "node tools/smoke.mjs",
+    "serve": "python -m http.server 8000"
+  }
+}

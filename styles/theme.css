@@ -1,0 +1,20 @@
+/* 主题变量：全部配色与字体集中于此 */
+:root {
+  --bg: #12141c;
+  --bg-soft: #181b26;
+  --panel: #1e2230;
+  --panel-2: #262b3d;
+  --border: #343b52;
+  --accent: #4cc2ff;
+  --accent-soft: rgba(76, 194, 255, 0.14);
+  --gold: #ffd166;
+  --gold-soft: rgba(255, 209, 102, 0.14);
+  --green: #5ee08a;
+  --red: #ff6b6b;
+  --purple: #c792ea;
+  --text: #e8eaf2;
+  --muted: #8a91a8;
+  --font: Consolas, "Courier New", "Sarasa Mono SC", monospace;
+  --radius: 6px;
+  --shadow: 0 4px 18px rgba(0, 0, 0, 0.35);
+}
